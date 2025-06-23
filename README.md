@@ -245,14 +245,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Ahmed** - *Initial work* - [ahmed9332](https://github.com/ahmed9332)
 
-## 🆘 Support
-
-If you encounter any issues:
-
-1. Check the [Issues](https://github.com/ahmed9332/hrms/issues) page
-2. Create a new issue with detailed description
-3. Include error logs and system information
-
 ## 🙏 Acknowledgments
 
 - Built with the PERN stack
